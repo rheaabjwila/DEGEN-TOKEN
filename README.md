@@ -1,3 +1,5 @@
+Degen Token
+
 For this task we will create a ERC20 token and deploy it on the Avalanche network for Degen Gaming. The smart contract should have the following functionality:
 
 Minting new tokens: The platform should be able to create new tokens and distribute them to players as rewards. Only the owner can mint tokens.
